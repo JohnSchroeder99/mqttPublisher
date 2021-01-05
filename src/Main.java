@@ -7,7 +7,6 @@ import org.eclipse.paho.mqttv5.common.MqttSecurityException;
 public class Main {
 
 	static String publisherID = "Tester";
-
 	static MqttAsyncClient publisher;
 
 	static MqttConnectionOptions options;
